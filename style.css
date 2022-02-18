@@ -11,7 +11,7 @@ body {
 
 .card {
   background: rgba(255,255,255,0.4);
-  color: blue;
+  color: #adb5bd;
   padding: 1em;
   width: fit-content;
   max-width: 420px;
