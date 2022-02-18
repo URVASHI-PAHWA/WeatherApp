@@ -16,7 +16,7 @@ body {
   width: fit-content;
   max-width: 420px;
   margin: 1em;
-  border-radius: 8px;
+  border-radius: 15px;
 }
 
 .search {
@@ -32,7 +32,7 @@ button {
   height: 44px;
   width: 44px;
   outline: none;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.6);
   color: grey;
   cursor: pointer;
   transition: 0.2s ease-in-out;
@@ -43,7 +43,7 @@ input.search-bar {
   outline: none;
   padding: 0.4em 1em;
   border-radius: 24px;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.6);
   color: grey;
   font-family: inherit;
   font-size: 18px;
@@ -51,7 +51,7 @@ input.search-bar {
 }
 
 button:hover {
-  background: rgba(255,255,255,0.4);
+  background: rgba(255,255,255,0.8);
 }
 
 h1.temp {
@@ -70,8 +70,8 @@ h1.temp {
   text-transform: capitalize;
 }
 #div{
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.6);
   padding: 20px;
   text-align: center;
-  border-radius: 8px;
+  border-radius: 15px;
 }
